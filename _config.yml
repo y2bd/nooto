@@ -10,7 +10,7 @@ url: http://nooto.y2bd.me
 # url: http://127.0.0.1:4000  
 
 # pagination
-paginate: 1
+paginate: 5
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
