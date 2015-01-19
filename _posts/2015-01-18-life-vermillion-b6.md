@@ -10,7 +10,7 @@ description: A review of the Life Vermilion Notebook, a graph notebook in B6.
 
 {% include img.html src="https://41.media.tumblr.com/4ba2c6bbac4ad370274c63119d41e4bc/tumblr_nied8jrf5l1rm5x6do5_1280.jpg" title="I got the Macbook out of this photo!" %}
 
-Just a couple of weeks ago I was all about the 7&Prime;x10&Prime;-ness of the B5 size. After being chained to the monstrosity that is letter-size for so long, it was such a relief shaving off an inch or more off each side.
+Just a couple of weeks ago I was all about the 7″x10″-ness of the B5 size. After being chained to the monstrosity that is letter-size for so long, it was such a relief shaving off an inch or more off each side.
 
 Well as they say, give 'em an inch and they'll take a mile.
 
@@ -41,3 +41,19 @@ Bleedthrough is thankfully non-existent, and showthrough is really only there to
 I'm currently working through another notebook for class notes at the moment, but I cannot wait until I get to this one. The presentation is just lovely, and it really just performs way better than it should. It's definitely going to take some getting used to with the smaller size, but fortunately I can't see myself getting any smaller, with the next size down being the pocketable A6.
 
 I bought this notebook at [JetPens](http://www.jetpens.com/Life-Vermilion-Notebook-B6-Graph/pd/10862), but you can also find it at [Nanami Paper](http://www.nanamipaper.com/products/life-japan-b6-section-vermilion-notebook-n66.html). It also comes in lined for those who can't handle the graph (don't worry, sometimes I can't handle it either).
+
+Pens and pencils used:
+
+* Lamy Vista F nib w/ Rohrer and Klinger Scabiosa
+* Pilot 78G M nib w/ Diamine Sherwood Green
+* Pilot Metropolitan M nib w/ Diamine Syrah
+* TWSBI 580AL Orange EF nib w/ Diamine Sunset
+* Montblanc 144 M nib w/ Private Reserve Electric DC Blue
+* Hero 447 F nib w/ Noodler's Baystate Blue
+* Platinum Preppy EF nib w/ Platinum Blue (cartridge)
+* Uniball Signo DX 0.38mm in Violet
+* Sakura Pigma Micron 05 in Royal Blue
+* Pilot Hi-Tec-C 0.5mm in Usuzumi Gray
+* Palomino Blackwing Pearl in Standard Pencil Graphite Color
+* Morning Glory Mach 3 0.38mm in Blue Black
+* Uniball Kuru-Toga 0.5mm
