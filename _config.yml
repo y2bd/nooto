@@ -16,12 +16,12 @@ paginate: 5
 harmony:
   name: ノート
   # Little description about your site
-  description: A blog about stationery and stuff.
+  description: A blog about how I write.
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > #
-    A blog about pens, ink, paper, and other sorts of stationery.
+    A blog about stationery and keyboards.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Jason Lo
